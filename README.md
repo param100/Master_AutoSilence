@@ -7,11 +7,11 @@ setup step :-
 2  Install app in your android phone ..if your phone version is greater than 5 ..
    then don't forget to assign required permission to app.
 
-4  app needs hardware like bluetooh+ardunio in order to work.
+4  app needs hardware like bluetooth+ardunio in order to work.
 
 5 now connect bluetooth module to ardunio.
 
-6 Bluetooh name should be "g-link";
+6 Bluetooth name should be "g-link";
 
 7 now give power to ardunio and if working well then start the master app.
 
