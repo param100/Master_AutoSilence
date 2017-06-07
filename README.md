@@ -16,3 +16,8 @@ setup step :-
 7 now give power to ardunio and if working well then start the master app.
 
 8 wait for few second..after few second your phone's setting will change automatically.
+
+
+
+For more help :-Just leave a message !
+https://www.facebook.com/parmanand.kumar.54
